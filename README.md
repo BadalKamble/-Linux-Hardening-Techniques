@@ -2,9 +2,6 @@
 
 Cybersecurity Presentation | BCA Final Year | Dayanand College of Commerce, Latur
 
-Show Image
-📥 Download Full Presentation PDF
-
 📌 Project Title
 Linux Hardening Techniques — System Security Presentation
 
@@ -43,3 +40,5 @@ Presented by: Badal Kamble
 Exam Seat No: ZI32681
 Class: BCA TY, Div A, Roll No: 25735
 College: Dayanand College of Commerce, Latur (SRTMU)
+
+[📥 Download Full Presentation PDF](Linux%20Hardening%20Techniques.pdf)
