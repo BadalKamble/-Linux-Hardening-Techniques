@@ -42,3 +42,4 @@ Class: BCA TY, Div A, Roll No: 25735
 College: Dayanand College of Commerce, Latur (SRTMU)
 
 [📥 Download Full Presentation PDF](Linux%20Hardening%20Techniques.pdf)
+![Linux Hardening Techniques](%F0%9F%90%A7%20Linux%20Hardening%20Techniques%20Screenshot.png)
