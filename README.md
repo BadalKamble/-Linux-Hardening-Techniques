@@ -1,4 +1,4 @@
-🐧 Linux Hardening Techniques
+🐧 Linux Hardening Techniques            [📥 Download Full Presentation PDF](Linux%20Hardening%20Techniques.pdf)
 
 Cybersecurity Presentation | BCA Final Year | Dayanand College of Commerce, Latur
 
